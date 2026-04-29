@@ -1,0 +1,17 @@
+{
+  "religion": ["muslim", "islam", "islamic", "christian", "catholic", "protestant", "orthodox", "jew", "jewish", "jewry", "hindu", "sikh", "buddhist", "buddhism", "atheist", "agnostic"],
+  "ethnicity": ["arab", "arabic", "persian", "kurd", "latino", "latina", "latinx", "mexican", "chicano", "asian", "south asian", "east asian", "african", "african american", "caribbean", "pashtun", "somali", "eritrean"],
+  "nationality": ["indian", "pakistani", "bangladeshi", "afghani", "afghan", "iranian", "iraqi", "syrian", "lebanese", "egyptian", "turkish", "russian", "ukrainian", "polish", "chinese", "japanese", "korean", "filipino", "vietnamese", "thai", "nigerian", "kenyan", "ethiopian", "somali", "sudanese", "brazilian", "argentinian", "canadian", "american", "usa", "british", "french", "german", "italian", "spanish"],
+  "race": ["black", "white", "brown", "caucasian"],
+  "orientation": ["lgbt", "lgbtq", "gay", "lesbian", "bi", "bisexual", "trans", "transgender", "nonbinary", "queer", "intersex"],
+  "gender": ["woman", "women", "female", "man", "men", "male", "girl", "boy", "mother", "father", "wife", "husband"],
+  "immigration": ["immigrant", "refugee", "asylum", "migrant", "undocumented", "illegal alien"],
+  "disability": ["disabled", "autistic", "autism", "adhd", "deaf", "blind", "wheelchair", "cripple", "dwarf", "little person"],
+  "caste": ["dalit", "brahmin", "shudra", "kshatriya", "vaishya"],
+  "stereotypes": [
+    "are terrorists", "are terror", "are bombers", "bring crime", "are criminals", "are thieves", "are invaders", "are taking over", "are dirty", "spread disease", "don\"t belong here", "send them back", "ban all", "wipe them out", "are animals", "are vermin", "are rats", "are pigs", "are monkeys", "are groomers"
+  ],
+  "threats": [
+    "kill", "shoot", "bomb", "burn", "hang", "lynch", "wipe out", "exterminate", "eradicate", "gas", "attack", "destroy", "eliminate"
+  ]
+}
